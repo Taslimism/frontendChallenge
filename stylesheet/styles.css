@@ -1,0 +1,79 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution {
+    color: hsl(228, 45%, 44%);
+  }
+
+  .cars{
+      postion:relative;
+      
+  }
+  body{
+      color:white;
+  }
+  .btn{
+    border-radius: 10px;
+    border: none;
+    font-family: "Lexend Deca", sans-serif;
+    padding: 0.5rem 2rem;
+    border-radius: 30px;
+    border-color: white;
+    font-size: 1rem;
+    border: 2px solid;
+  }
+  .text{
+    font-family: 'Lexend Deca', sans-serif;
+    line-height: 2;
+    
+    
+  }
+  .cars strong{
+    
+      font-family: 'Big Shoulders Display', cursive;
+      font-family: 'Lexend Deca', sans-serif;
+      font-weight: 700;
+      font-size: 25px;
+      display:inline-block;
+      margin-bottom: 30px;
+  }
+  
+
+  .sedan{
+      position: absolute;
+      display: inline-block;
+      background-color: hsl(31, 77%, 52%);
+      width:250px;
+      font-size: 15px;
+      left:270px;
+      top:250px;
+      padding: 30px;
+      margin-bottom: 30px;
+
+  }
+
+  .suv{
+    position: absolute;
+    display: inline-block;
+    background-color: hsl(184, 100%, 22%);
+    width:250px;
+    font-size: 15px;
+    left :580px;
+    top:250px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.luxury{
+    position: absolute;
+    display : inline-block;
+    background-color: hsl(179, 100%, 13%);
+    font-size: 15px;
+    left:890px;
+    
+    width:250px;
+    top:250px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
